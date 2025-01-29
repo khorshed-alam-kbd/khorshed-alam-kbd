@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm MD. KHORSHED ALAM 👋</h1>
+<h1 align="center">Hi there, I'm MD. KHORSHED ALAM</h1>
 
 <p align="center">
   <b>💻 Software Developer | 🎓 CSE Graduate | 🌐 Full-Stack Developer</b>
@@ -9,41 +9,86 @@
 ## 🚀 About Me
 - 💼 **Software Developer** at [Comtech Software Solution Ltd.](#)
 - 🎓 **B.Sc. in Computer Science & Engineering**
-- 🛠️ Experienced in **React.js, Next.js, Node.js, MongoDB, MySQL**
-- 🔬 Passionate about **Cyber Security, AI, IoT, Cloud Computing**
+- 🛠️ Experienced in **Full-Stack Web Development**
 - 🌍 **Portfolio Website:** [khorshedalam-kbd.web.app](https://khorshedalam-kbd.web.app)
 
 ---
 
-## 🛠️ Tech Stack
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+## 🛠️ Tech Stack  
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+### **Frontend Technologies**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+
+### **UI Frameworks & Libraries**  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0FC8?style=for-the-badge&logo=daisyui&logoColor=white)  
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)  
+![Flowbite](https://img.shields.io/badge/Flowbite-38B2AC?style=for-the-badge&logo=flowbite&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
+
+### **Backend Technologies**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 
-**Database:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+### **APIs & Authentication**  
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)  
+![Axios](https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white)  
+![JWT Token](https://img.shields.io/badge/JWT_Token-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)  
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)  
 
-**Other Tools:**  
+### **Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+### **Tools & Deployment**  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)  
 
 ---
 
 ## 📌 Featured Projects  
-| Project Name | Tech Stack | Description |
-|-------------|-----------|-------------|
-| **Real Estate Flat Management** | React, Node.js, MySQL | A property & rental management platform |
-| **Clotina (Fashion E-commerce)** | Next.js, MongoDB | An e-commerce website for fashion retail |
+### **Bullcapital Dashboard**  
+🔹 **Description:** India-based user dashboard.  
+🔹 **Tech Stack:** React.js | Axios | Tailwind CSS | REST APIs | Material UI  
 
-🔗 **Explore all projects:** [GitHub Repositories](https://github.com/khorshed-alam-kbd?tab=repositories)
+### **IKY Digital Dashboard**  
+🔹 **Description:** USA-based dashboard with 4 roles: Admin, Manager, Sales Rep, and Customer.  
+🔹 **Tech Stack:** React.js | TypeScript | Redux | Axios | Tailwind CSS | REST APIs  
+
+### **Global Path Liquidators**  
+🔹 **Description:** USA-based eCommerce website.  
+🔹 **Tech Stack:** React.js | TypeScript | Redux | Axios | Tailwind CSS | REST APIs  
+
+### **Global Path Liquidators Admin Dashboard**  
+🔹 **Description:** Admin dashboard for eCommerce management.  
+🔹 **Tech Stack:** React.js | TypeScript | Redux | Axios | Tailwind CSS | REST APIs  
 
 ---
+
+## 📂 Other Projects  
+
+### **AJTI**  
+🔹 **Tech Stack:** React.js | Tailwind CSS | DaisyUI | EmailJS | AOS | Sweet Alert | React Photo View  
+
+### **MS FASHION HOUSE**  
+🔹 **Tech Stack:** React.js | Axios | Tailwind CSS | React Multi Carousel | Sweet Alert | React Hook Form | REST APIs  
+
+### **NAJMAT ALSAFA**  
+🔹 **Tech Stack:** React.js | Tailwind CSS | DaisyUI | EmailJS | AOS | Sweet Alert | React Photo View  
+
+---
+
+🔗 **Explore all projects:** [GitHub Repositories](https://github.com/khorshed-alam-kbd?tab=repositories)
 
 ## 📈 GitHub Stats
 <p align="center">
